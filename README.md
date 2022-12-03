@@ -5,7 +5,7 @@
 - 👯 Espero aprender novas tecnologias e aprimorar minhas habilidades
 - 🤔 Estou procurando sempre novos desafios e exercícios para programar
 - 📫 Contato: kunzel.eric@gmail.com
-- ⚡ Fato Curioso: Já tentei estudar programação diversas vezes no passado, e agora finalmente tomei a coragem para migrar de área.
+- ⚡ Fato Curioso: Já tentei estudar programação diversas vezes, e agora finalmente tomei a coragem para migrar de área.
 
 <div align="center">
   <a href="https://github.com/kunzeleric">
@@ -14,7 +14,7 @@
 </div>
 
  
-<div> 
+<div align="center"> 
    <a href = "mailto:kunzel.eric@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https://www.linkedin.com/in/eric-edward-k%C3%BCnzel-0b139574/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
