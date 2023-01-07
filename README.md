@@ -5,7 +5,6 @@
 - 👯 Espero aprender novas tecnologias e aprimorar minhas habilidades
 - 🤔 Estou procurando sempre novos desafios e exercícios para programar
 - 📫 Contato: kunzel.eric@gmail.com
-- ⚡ Fato Curioso: Já tentei estudar programação diversas vezes, e agora finalmente tomei a coragem para migrar de área.
 
 <div align="center">
   <a href="https://github.com/kunzeleric">
