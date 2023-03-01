@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Eric Kunzel :)
 
 - 🔭 Atualmente trabalhando na área de Controladoria
-- 🌱 Estou aprendendo HTML5 & CSS3 e JavaScript
+- 🌱 Estudando React, JavaScript, e um pouco de Dart :)
 - 👯 Espero aprender novas tecnologias e aprimorar minhas habilidades
 - 🤔 Estou procurando sempre novos desafios e exercícios para programar
 - 📫 Contato: kunzel.eric@gmail.com
