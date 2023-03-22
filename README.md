@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Eric Kunzel :)
 
-- 🔭 Atualmente trabalhando na área de Controladoria
+- 🔭 Em transição de carreira! Focado totalmente no estudo para acelerar minha transição para programação!
 - 🌱 Estudando React, JavaScript, e um pouco de Dart :)
 - 👯 Espero aprender novas tecnologias e aprimorar minhas habilidades
 - 🤔 Estou procurando sempre novos desafios e exercícios para programar
