@@ -1,10 +1,10 @@
-## Olá! Eu sou o Eric Kunzel :)
+## Hey there! I'm Eric Kunzel, a Front End Developer in pursue of a Full Stack career
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-- 🔭 Em transição de carreira! Focado totalmente no estudo para acelerar minha transição para programação!
-- 🌱 Estudando JavaScript, ReactJS, NodeJS e MongoDB atualmente :)
-- 👯 Espero aprender novas tecnologias e aprimorar minhas habilidades
-- 🤔 Estou procurando sempre novos desafios, e uma oportunidade para iniciar a carreira de desenvolvedor.
-- 📫 Contato: kunzel.eric@gmail.com
+- 🔭 In a career transition! I'm dedicated to a full study journey in order to speed up the proccess.
+- 🌱 Studying JavaScript, ReactJS, NodeJS and MongoDB currently :)
+- 👯 I'm passionate about technologies and I'm always eager to learn something new.
+- 🤔 Looking for an opportunity to start my career as a developer as soon as possible.
+- 📫 Contact me on kunzel.eric@gmail.com :)
 
 ## Technologies
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -14,8 +14,9 @@
   </a>
 </div>
 
- 
-<div align="center"> 
+## Social Media
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<div align="left"> 
    <a href = "mailto:kunzel.eric@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https://www.linkedin.com/in/eric-edward-k%C3%BCnzel-0b139574/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
