@@ -10,7 +10,7 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <div align="center">
   <a href="https://github.com/kunzeleric">
-  <img height="180em" src="https://www.kindpng.com/picc/m/78-787343_html5-css-javascript-html-css-js-icon-hd.png"/>
+  <img height="180em" width="360em" src="https://www.kindpng.com/picc/m/78-787343_html5-css-javascript-html-css-js-icon-hd.png"/>
   </a>
 </div>
 
