@@ -1,15 +1,17 @@
 ## Olá! Eu sou o Eric Kunzel :)
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 - 🔭 Em transição de carreira! Focado totalmente no estudo para acelerar minha transição para programação!
 - 🌱 Estudando JavaScript, ReactJS, NodeJS e MongoDB atualmente :)
 - 👯 Espero aprender novas tecnologias e aprimorar minhas habilidades
 - 🤔 Estou procurando sempre novos desafios, e uma oportunidade para iniciar a carreira de desenvolvedor.
 - 📫 Contato: kunzel.eric@gmail.com
 
+## Technologies
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <div align="center">
   <a href="https://github.com/kunzeleric">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kunzeleric&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunzeleric&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://www.kindpng.com/picc/m/78-787343_html5-css-javascript-html-css-js-icon-hd.png"/>
+  </a>
 </div>
 
  
