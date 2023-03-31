@@ -1,9 +1,9 @@
 ## Olá! Eu sou o Eric Kunzel :)
 
 - 🔭 Em transição de carreira! Focado totalmente no estudo para acelerar minha transição para programação!
-- 🌱 Estudando React, JavaScript, NodeJS, e um pouco de Dart :)
+- 🌱 Estudando JavaScript, ReactJS, NodeJS e MongoDB atualmente :)
 - 👯 Espero aprender novas tecnologias e aprimorar minhas habilidades
-- 🤔 Estou procurando sempre novos desafios e exercícios para programar
+- 🤔 Estou procurando sempre novos desafios, e uma oportunidade para iniciar a carreira de desenvolvedor.
 - 📫 Contato: kunzel.eric@gmail.com
 
 <div align="center">
