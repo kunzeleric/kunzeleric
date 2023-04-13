@@ -1,4 +1,4 @@
-## Hey there! I'm Eric Kunzel, a Newbie Developer :)
+## Hey there! I'm Eric Kunzel, a Frontend Developer :)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 - 🔭 In a career transition! I'm dedicated to a full study journey in order to speed up the process.
 - 🌱 Currently studying JavaScript, ReactJS, NodeJS and Dart.
