@@ -2,7 +2,7 @@
 
 - 🔭 In a career transition! I'm dedicated to a full study journey in order to speed up the process.
 - 🌱 Currently studying JavaScript, ReactJS, NodeJS and Dart.
-- 👯 I'm passionate about technologies and I'm always eager to learn something new.
+- 👯 I'm passionate about technology and I'm eager to learn more about it!
 - 🤔 Looking for an opportunity to start my career as a developer as soon as possible.
 - 📫 Contact me on kunzel.eric@gmail.com :)
 
