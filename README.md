@@ -1,7 +1,6 @@
 ## Hey there! I'm Eric Kunzel, a Frontend Developer :)
 
 - 🔭 In a career transition! I'm dedicated to a full study journey in order to speed up the process.
-- 🌱 Currently studying JavaScript, ReactJS and NodeJS, planning on advancing to some other frameworks such as Next.js and Vue.js.
 - 👯 I'm passionate about technology and I'm eager to learn more about it!
 - 🤔 Looking for an opportunity to start my career as a developer as soon as possible.
 - 📫 Contact me on kunzel.eric@gmail.com :)
