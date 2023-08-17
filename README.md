@@ -1,4 +1,4 @@
-## Hey there! I'm Eric Kunzel, a Frontend Developer :)
+## Hey there! I'm Eric Kunzel, a Full-Stack Developer :)
 
 - 🔭 In a career transition! I'm dedicated to a full study journey in order to speed up the process.
 - 👯 I'm passionate about technology and I'm eager to learn more about it!
