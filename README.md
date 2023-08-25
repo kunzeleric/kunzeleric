@@ -17,7 +17,7 @@
 
 ## Learning At The Moment
 
-<div style="display: flex; gap: 1rem;">
+<div>
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
