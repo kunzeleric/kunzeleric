@@ -2,7 +2,6 @@
 
 - 🔭 Studying and working as a freelancer, still in a career transition from Controllership.
 - 👯 I'm passionate about technology and I'm eager to learn more about it!
-- 🤔 Looking for an opportunity to start my career as a developer as soon as possible.
 - 📫 Contact me on kunzel.eric@gmail.com :)
 
 ## Technologies
