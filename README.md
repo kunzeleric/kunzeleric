@@ -1,4 +1,4 @@
-## Hey there! I'm Eric Kunzel, a Full-Stack Developer
+## Hey there! I'm Eric Kunzel, a Full-Stack Web Developer
 
 - 🔭 Studying and working as a freelancer, still in a career transition from Controllership.
 - 👯 I'm passionate about technology and I'm eager to learn more about it!
@@ -15,18 +15,10 @@
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" />
-          
-</div>
-
-## Studying + Using Currently
-
-<div>
-
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-
+          
 </div>
 
 ## Social Media
