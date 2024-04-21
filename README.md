@@ -1,29 +1,31 @@
-## Hey there! I'm Eric Kunzel, a Full-Stack Web Developer
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=120&section=header"/>
 
-- 🔭 Studying and working as a freelancer, still in a career transition from Controllership.
-- 👯 I'm passionate about technology and I'm eager to learn more about it!
-- 📫 Contact me on kunzel.eric@gmail.com :)
-
-## Technologies
-
-<div style="display: inline">
-  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
-  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" />
-  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-          
+<div align="center">  
+  <h1>Hey there! I'm Eric Kunzel, a Full-Stack Web Developer</h1>
+  <p>Working as a freelancer, still in a career transition from Controllership and always studying to be better in what I love to do: coding!</p>
 </div>
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kunzeleric&show_icons=true&count_private=true&hide_border=true&title_color=7C3AED&icon_color=E8E5BC&text_color=7C3AED&bg_color=0d1117" alt="Eric Kunzel github stats" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunzeleric&layout=compact&hide_border=true&title_color=E8E5BC&text_color=7C3AED&bg_color=0d1117" />
+</div>
+
+<div align="center">
+  <h3>Main skills</h3>
+  
+  [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,styledcomponents,react,sass,tailwind,nextjs)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=nodejs,mongodb,vitest,sqlite,prisma,mysql,postgres,express,fastify)](https://skillicons.dev)
+</div>
+
+
+<hr>
 
 ## Social Media
 
-<div align="left"> 
+<div align="center"> 
+    <h3>Professional Profile and Contact</h3>
    <a href = "mailto:kunzel.eric@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https://www.linkedin.com/in/eric-edward-k%C3%BCnzel-0b139574/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=120&section=footer"/>
