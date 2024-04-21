@@ -21,7 +21,7 @@
 
   <h3>Backend</h3>
 
-  [![My Skills](https://skillicons.dev/icons?i=nodejs,mongodb,vitest,sqlite,prisma,mysql,postgres,express,fastify)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=nodejs,mongodb,vitest,sqlite,prisma,mysql,postgres,express,py,flask)](https://skillicons.dev)
 </div>
 
 <hr>
