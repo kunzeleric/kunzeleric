@@ -10,17 +10,21 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunzeleric&layout=compact&hide_border=true&title_color=C084FC&text_color=C084FC&bg_color=0d1117" />
 </div>
 
+<hr>
+
 <div align="center">
   <h3>Main skills</h3>
+
+  <h3>Frontend</h3>
   
   [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,styledcomponents,react,sass,tailwind,nextjs)](https://skillicons.dev)
+
+  <h3>Backend</h3>
+
   [![My Skills](https://skillicons.dev/icons?i=nodejs,mongodb,vitest,sqlite,prisma,mysql,postgres,express,fastify)](https://skillicons.dev)
 </div>
 
-
 <hr>
-
-## Social Media
 
 <div align="center"> 
     <h3>Professional Profile and Contact</h3>
