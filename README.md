@@ -1,8 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=120&section=header"/>
 
 <div align="center">  
-  <h1>Hey there! I'm Eric Kunzel, a Full-Stack Web Developer</h1>
-  <p>Working as a Frontend Developer, but aiming for the Fullstack role! I want to be a role model in the Javascript world :)</p>
+  <h1>Hey there! I'm Eric Kunzel, a Full Stack Web Developer</h1>
+  <p>Currently working as a Frontend, but aiming for the Full Stack role! I want to be a role model in the Javascript world :)</p>
 </div>
 
 <div align="center">  
